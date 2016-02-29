@@ -1,0 +1,6 @@
+framework module PWPopupView {
+  umbrella header "PWPopupView-umbrella.h"
+
+  export *
+  module * { export * }
+}

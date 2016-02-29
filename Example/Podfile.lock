@@ -1,0 +1,14 @@
+PODS:
+  - PWPopupView (0.1.0)
+
+DEPENDENCIES:
+  - PWPopupView (from `../`)
+
+EXTERNAL SOURCES:
+  PWPopupView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PWPopupView: 2e1854fb09adb222e1e2a7acf53198daea8a944f
+
+COCOAPODS: 0.39.0

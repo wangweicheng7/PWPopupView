@@ -9,17 +9,16 @@
 Pod::Spec.new do |s|
   s.name             = "PWPopupView"
   s.version          = "0.1.0"
-  s.summary          = "A short description of PWPopupView."
+  s.summary          = "UIView 子类，实现PopupView 的效果。"
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
-  s.description      = <<-DESC
-                       DESC
+  s.description      = "可以通过pod 'PWPopupView'来引入你的工程中，UIView 子类，实现PopupView 的效果。"
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/PWPopupView"
+  s.homepage         = "https://github.com/wangweicheng7/PWPopupView"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Paul Wang" => "809405366@qq.com" }
