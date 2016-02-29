@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'PWPopupView_Example', :exclusive => true do
+  pod 'PWPopupView', :path => '../'
+end
+
+target 'PWPopupView_Tests', :exclusive => true do
+  pod 'PWPopupView', :path => '../'
+
+  
+end
